@@ -12,3 +12,5 @@
 ・車両情報<br>
 ・注意事項<br>
 ・当社取扱商品カテゴリ別リンク ・・・ カテゴリ名で検索して当社ストアを表示します。<br>
+
+◯![開発物](https://drive.google.com/file/d/1tAhPq8q3fozfYSBkZxjNI_ik_Gp6KUC8/view?usp=sharing)
